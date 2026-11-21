@@ -1,8 +1,6 @@
 <div align="center">
-
-# ⚡ Raxer
-
-### Raxer Project Management System
+    
+# Raxer Project Management System
 **An agentic AI workspace that plans, tracks and ships your projects with you.**
 
 Tell Raxer your goal. Its agents break it into tasks, watch your deadlines, generate docs, slides and diagrams, and ask for your approval before changing anything.
